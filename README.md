@@ -1,2 +1,4 @@
 
-# Crypto Cafe Project Requirements
+# Crypto Cafe Project 
+
+ A simple Crypto Currency Finder project
